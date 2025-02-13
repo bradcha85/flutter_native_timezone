@@ -24,6 +24,9 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+
+
+    namespace 'com.bradcha85.flutter_native_timezone'
     compileSdkVersion 30
 
     sourceSets {
