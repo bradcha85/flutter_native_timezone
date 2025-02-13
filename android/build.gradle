@@ -27,7 +27,7 @@ android {
 
 
     namespace 'com.bradcha85.flutter_native_timezone'
-    compileSdkVersion 30
+    compileSdkVersion 35
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
